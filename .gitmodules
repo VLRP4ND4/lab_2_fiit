@@ -1,0 +1,3 @@
+[submodule "quadTree"]
+	path = quadTree
+	url = git@github.com:senseye256/quadTree.git
